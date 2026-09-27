@@ -252,6 +252,10 @@ header {
 }
 
 @media screen and (max-width: 620px) {
+    body {
+        background-attachment: scroll;
+    }
+
     .desc {
         min-height: 45vh;
         height: auto;
@@ -262,6 +266,8 @@ header {
     .Upper {
         font-size: 1.35rem;
         line-height: 1.4;
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
     }
 
     .box {
