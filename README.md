@@ -1,2 +1,2 @@
-# KIET Manager
-This is just a normal web manager for KIET.
+# Web Manager
+Just a ordinary website which have all important kiet website links.
